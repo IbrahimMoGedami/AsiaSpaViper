@@ -1,0 +1,92 @@
+PODS:
+  - Alamofire (5.4.1)
+  - AlamofireImage (4.1.0):
+    - Alamofire (~> 5.1)
+  - CDAlertView (0.11.0)
+  - DynamicBlurView (4.1.0)
+  - FMSecureTextField (1.0.0)
+  - Kingfisher (6.1.0)
+  - Localize-Swift (3.2.0):
+    - Localize-Swift/LocalizeSwiftCore (= 3.2.0)
+    - Localize-Swift/UIKit (= 3.2.0)
+  - Localize-Swift/LocalizeSwiftCore (3.2.0)
+  - Localize-Swift/UIKit (3.2.0):
+    - Localize-Swift/LocalizeSwiftCore
+  - MarqueeLabel (4.0.5)
+  - MIAlertController (1.3)
+  - NotificationBannerSwift (3.0.6):
+    - MarqueeLabel (~> 4.0.5)
+    - SnapKit (~> 5.0.1)
+  - NVActivityIndicatorView (5.1.1):
+    - NVActivityIndicatorView/Base (= 5.1.1)
+  - NVActivityIndicatorView/Base (5.1.1)
+  - PopupDialog (1.1.1):
+    - DynamicBlurView (~> 4.0)
+  - QuickLayout (3.0.0)
+  - Reachability (3.2)
+  - SkyFloatingLabelTextField (4.0.0)
+  - SnapKit (5.0.1)
+  - SwiftEntryKit (1.2.7):
+    - QuickLayout (= 3.0.0)
+  - SwiftKeychainWrapper (4.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage
+  - CDAlertView
+  - FMSecureTextField
+  - Kingfisher
+  - Localize-Swift
+  - MIAlertController
+  - NotificationBannerSwift
+  - NVActivityIndicatorView
+  - PopupDialog
+  - Reachability
+  - SkyFloatingLabelTextField
+  - SwiftEntryKit
+  - SwiftKeychainWrapper
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireImage
+    - CDAlertView
+    - DynamicBlurView
+    - FMSecureTextField
+    - Kingfisher
+    - Localize-Swift
+    - MarqueeLabel
+    - MIAlertController
+    - NotificationBannerSwift
+    - NVActivityIndicatorView
+    - PopupDialog
+    - QuickLayout
+    - Reachability
+    - SkyFloatingLabelTextField
+    - SnapKit
+    - SwiftEntryKit
+    - SwiftKeychainWrapper
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  AlamofireImage: c4a2ba349885fb3064feb74d2e547bd42ce9be10
+  CDAlertView: cd6624e857c85ad14560e2cd23d7eb25b983b590
+  DynamicBlurView: 58e18fae80bb614e34681a4486870e7d257b62e8
+  FMSecureTextField: 22312d628afe7a97b50682c6708c01ecf37087d5
+  Kingfisher: f5d8d60a0ef3edd642fd781bae60918599901aff
+  Localize-Swift: 6f4475136bdb0d7b2882ea3d4ea919d70142b232
+  MarqueeLabel: 00cc0bcd087111dca575878b3531af980559707d
+  MIAlertController: 39277c0ea540fed8be1aba980ba076a0b49b1c22
+  NotificationBannerSwift: 7021be2338f8f29cf424b0aca43da462bf9e2a1a
+  NVActivityIndicatorView: 1f6c5687f1171810aa27a3296814dc2d7dec3667
+  PopupDialog: 720c92befd8bc23c13442254945213db5612f149
+  QuickLayout: 07b45a72b10083fee3f095990cfed1c1e7b27f0a
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  SkyFloatingLabelTextField: 79ddc40e4ad59707fedbb48d605417aee48bb78a
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SwiftEntryKit: 537c92699d6034efb1ef9c32b11e0b37c97aa589
+  SwiftKeychainWrapper: 807ba1d63c33a7d0613288512399cd1eda1e470c
+
+PODFILE CHECKSUM: 1d630766db0c0d1d5812b8064c106365c63a9882
+
+COCOAPODS: 1.10.1
